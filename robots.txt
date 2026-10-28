@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap — استبدل النطاق بالدومين الحقيقي بعد الشراء
+Sitemap: https://danadecor-taif.example/sitemap.xml
